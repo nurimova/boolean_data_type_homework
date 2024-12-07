@@ -1,10 +1,10 @@
 def main(a):
     """
-    Check that the number "a" is a perfect square.
-    Args:
+    "a" sonining mukammal kvadrat ekanligini tekshiring.
+    Berilganlar:
         a: int
-    Returns:
+    Qaytaradi:
         bool
     """
-    # Write your code here
-    return 
+    # Kodni shu yerga yozing
+    return
