@@ -1,10 +1,10 @@
 def main(a):
     """
-    check the whole number. Integers are 0 and a positive number.
-    Args:
+    Butun sonni tekshiring. Butun sonlar - 0 va musbat sonlar.
+    Berilganlar:
         a: int
-    Returns:
+    Qaytaradi:
         bool
     """
-    # Write your code here
+    # Kodni shu yerga yozing
     return
