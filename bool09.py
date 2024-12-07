@@ -1,10 +1,10 @@
 def main(a):
     """
-    Check the natural number. Natural numbers are numbers used in counting.
-    Args:
+    Tabiiy sonni tekshiring. Tabiiy sonlar - sanashda ishlatiladigan sonlar.
+    Berilganlar:
         a: int
-    Returns:
+    Qaytaradi:
         bool
     """
-    # Write your code here
-    return 
+    # Kodni shu yerga yozing
+    return
