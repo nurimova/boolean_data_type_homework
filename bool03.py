@@ -1,10 +1,10 @@
 def main(b):
     """
-    check the following statement "The variable "b" is positive"
-    Args:
+    Quyidagi bayonotni tekshiring: "O‘zgaruvchi 'b' musbat"
+    Berilganlar:
         b: int
-    Returns:
+    Qaytaradi:
         bool
     """
-    # Write your code here
-    return 
+    # Kodni shu yerga yozing
+    return
