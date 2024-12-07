@@ -1,11 +1,11 @@
-def main(a,b):
+def main(a, b):
     """
-    Check the following statement "they are equal"
-    Args:
+    Quyidagi bayonotni tekshiring: "Ular teng"
+    Berilganlar:
         a: int
         b: int
-    Returns:
+    Qaytaradi:
         bool
     """
-    # Write your code here
-    return 
+    # Kodni shu yerga yozing
+    return
