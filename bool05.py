@@ -1,10 +1,10 @@
 def main(a):
     """
-    check the following statement "The variable "a" is an odd number"
-    Args:
+    Quyidagi bayonotni tekshiring: "O‘zgaruvchi 'a' toq son"
+    Berilganlar:
         a: int
-    Returns:
+    Qaytaradi:
         bool
     """
-    # Write your code here
-    return 
+    # Kodni shu yerga yozing
+    return
