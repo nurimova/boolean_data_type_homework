@@ -1,268 +1,264 @@
-# Welcome
-# Boolean Data Types
+# Xush kelibsiz
+# Mantiqiy ma'lumot turlari (Boolean Data Types)
 
-Automated grading of homework assignments and tests
-- fork this repository
-- solve the task
-- commit with proper message
-- commit with proper message
+Uy vazifalari va testlarni avtomatik baholash uchun:
+- ushbu repozitoriyani **fork** qiling  
+- vazifani bajaring  
+- to‘g‘ri xabar bilan commit qiling  
+- to‘g‘ri xabar bilan commit qiling  
 
-# Problems
+# Vazifalar
 ## bool01
 
-  Check the following statement "they are equal"
+  Quyidagi bayonotni tekshiring: **"ular teng"**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=1 b=1
 Output: True
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=3 b=1
 Output: False
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool02
 
-  check the following statement "The variable 'a' is equal 7"
+  Quyidagi bayonotni tekshiring: **"O‘zgaruvchi 'a' 7 ga teng"**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=1
 Output: False
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=7
 Output: True
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool03
 
-  check the following statement "The variable "b" is positive"
+  Quyidagi bayonotni tekshiring: **"O‘zgaruvchi 'b' musbat"**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: b=-3
 Output: False
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: b=8
 Output: True
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool04
 
-  check the following statement "The variable "a" is negative"
+  Quyidagi bayonotni tekshiring: **"O‘zgaruvchi 'a' manfiy"**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=-3
 Output: True
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=8
 Output: False
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool05
 
-  check the following statement "The variable "a" is an odd number"
+  Quyidagi bayonotni tekshiring: **"O‘zgaruvchi 'a' toq son"**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=8
 Output: False
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=5
 Output: True
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool06
 
-  check the following statement "The variable "a" is an even number"
+  Quyidagi bayonotni tekshiring: **"O‘zgaruvchi 'a' juft son"**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=8
 Output: True
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=5
 Output: False
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool07
 
-  check the following statement "They are not equal"
+  Quyidagi bayonotni tekshiring: **"Ular teng emas"**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=3 b=1
 Output: True
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=5 b=5
 Output: False
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool08
 
-  check the whole number. Integers are 0 and a positive number.
+  Butun sonni tekshiring. **Butun sonlar - 0 va musbat sonlar.**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=3
 Output: True
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=0
 Output: True
-
 ```
 
-**Example 3:**
+**Misol 3:**
 
 ```Python
 Input: a=-1
 Output: False
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
+
+---
 
 ## bool09
 
-  Check the natural number. Natural numbers are numbers used in counting.
+  Natural sonni tekshiring. **Natural sonlar sanashda ishlatiladigan sonlardir.**
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=3
 Output: True
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=-1
 Output: False
-
 ```
 
-**Example 3:**
+**Misol 3:**
 
 ```Python
 Input: a=7
 Output: True
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>, a!=0
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>, a!=0
+
+---
 
 ## bool10
 
-  To Check if a number is a perfect square or not
+  Sonning mukammal kvadrat ekanligini tekshiring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: a=9
 Output: True
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: a=15
 Output: False
-
 ```
 
-**Example 3:**
+**Misol 3:**
 
 ```Python
 Input: a=121
 Output: True
-
 ```
 
-**Constraints:**
-- -10<sup>18</sup><=num<=10<sup>18</sup>
+**Cheklovlar:**
+- -10<sup>18</sup> <= num <= 10<sup>18</sup>
 
+---
 
-# Warning
-- don't copy other solutions or any solution
-- don't remove comments
+# Ogohlantirish
+- Boshqalarning yechimlarini yoki har qanday tayyor yechimni **ko‘chirmang**  
+- Izohlarni **o‘chirmang**
