@@ -1,10 +1,10 @@
 def main(a):
     """
-    check the following statement "The variable 'a' is equal 7"
-    Args:
+    Quyidagi bayonotni tekshiring: "O‘zgaruvchi 'a' 7 ga teng"
+    Berilganlar:
         a: int
-    Returns:
+    Qaytaradi:
         bool
     """
-    # Write your code here
-    return 
+    # Kodni shu yerga yozing
+    return
