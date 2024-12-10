@@ -8,4 +8,5 @@ def main(a, b):
         bool
     """
     # Kodni shu yerga yozing
-    return
+    return a==b
+print(main(1,1))

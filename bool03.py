@@ -7,4 +7,5 @@ def main(b):
         bool
     """
     # Kodni shu yerga yozing
-    return
+    return b>0
+print(main(-5))
